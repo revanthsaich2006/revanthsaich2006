@@ -51,4 +51,4 @@ A selection of technologies, frameworks, and developer tools that I use:
 ### 📬 Connect with Me
 
 *   📧 Email: [revanthsai_cherukuri@srmap.edu.in](mailto:revanthsai_cherukuri@srmap.edu.in)
-*   💻 GitHub Profile: [github.com/revanthsaich2006](https://github.com/revanthsaich2006)
+*   💻 GitHub Profile: [github.com/revanthsaich2006](https://github.com/revanthsaich2006) 🚀
